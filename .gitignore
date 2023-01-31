@@ -1,0 +1,19 @@
+# env stuff
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+
+# pyenv
+.python-version
+
+# misc
+/Include
+/Lib
+Scripts
+__pycache__/
+.vscode/
+vscode/
+pyvenv.cfg
